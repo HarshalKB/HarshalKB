@@ -1,7 +1,4 @@
 import java.util.Scanner;
-
-import javax.swing.plaf.basic.BasicInternalFrameTitlePane.CloseAction;
-
 public class Greatest_Number{
     public static void main(String arhs[]){
         Scanner sc = new Scanner(System.in);
