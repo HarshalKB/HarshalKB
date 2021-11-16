@@ -5,6 +5,7 @@ public class Greatest_Number{
         int num_1 = sc.nextInt();
         int num_2 = sc.nextInt();
         int num_3 = sc.nextInt();
+        sc.close();
         if (num_1 > num_2 && num_1 > num_3){
             System.out.print(num_1);
         } else if (num_2 > num_1 && num_2 > num_3){
